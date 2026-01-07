@@ -64,23 +64,23 @@ Multi-Disease-Prediction-System/
 
 ### Programming Language
 
-Python
+– Python
 
 ### Libraries & Frameworks
 
-  Streamlit
+– Streamlit
 
-  scikit-learn
+– scikit-learn
 
-  NumPy
+– NumPy
 
-  SciPy
+– SciPy
 
-  Pickle
+– Pickle
 
 ### Tools
 
-VS Code
+– VS Code
 
 Git & GitHub
 
