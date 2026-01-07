@@ -68,15 +68,15 @@ Python
 
 ### Libraries & Frameworks
 
-Streamlit
+  Streamlit
 
-scikit-learn
+  scikit-learn
 
-NumPy
+  NumPy
 
-SciPy
+  SciPy
 
-Pickle
+  Pickle
 
 ### Tools
 
