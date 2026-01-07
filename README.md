@@ -82,7 +82,7 @@ Multi-Disease-Prediction-System/
 
 – VS Code
 
-Git & GitHub
+– Git & GitHub
 
 ## ⚙️ Installation & Setup
 
