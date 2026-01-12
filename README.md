@@ -42,23 +42,16 @@ Parkinson’s	Support Vector Machine (SVM)
 (Models trained using publicly available medical datasets)
 
 ## 🗂️ Project Structure
-
+```
 Multi-Disease-Prediction-System/
-
 │── app.py
-
 │── requirements.txt
-
 │── saved_models/
-
 │   ├── diabetes_model.sav
-
 │   ├── heart_disease_model.sav
-
 │   └── parkinsons_model.sav
-
 │── README.md
-
+```
 
 ## 🛠️ Tech Stack
 
